@@ -1,4 +1,4 @@
 Class	: Mahasiswa dan Lapangan
 Object	: Mhs1, Mhs2, ..., Mhs-n; kelilingLapangan
 Atribut	: nama_mahasiswa, nim, jumlahPutaran, jumlahWaktu
-Method	: InsertDataMahasiswa, HitungWaktuTercepat, Penentuan Pemenang, DisplayMessage, HitungKelilingLapangan, HitungJarak
+Method	: InsertDataMahasiswa, HitungWaktuTercepat, PenentuanPemenang, DisplayMessage, HitungKelilingLapangan, HitungJarak
